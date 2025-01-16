@@ -8,7 +8,7 @@
   <groupId>io.cdap.plugin</groupId>
   <artifactId>kafka-plugins</artifactId>
   <packaging>pom</packaging>
-  <version>3.4.0-SNAPSHOT</version>
+  <version>3.5.0-SNAPSHOT</version>
   <description>Plugins for Apache Kafka</description>
   <url>https://github.com/data-integrations/kafka-plugins</url>
 
